@@ -18,4 +18,10 @@
    18  git branch -M main
    19  git push -u origin main
    20  history
+   21  vim notes.md
+   22  git add .
+   23  git commit -m "notes.md created"
+   24  git push -u origin main
+   25  history
+
 
