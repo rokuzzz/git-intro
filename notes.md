@@ -1,4 +1,5 @@
-    That is Romans version of notes.md
+    That is Romans version of notes.md !
+
     1  git clone https://github.com/mattpe/git-intro.git
     2  git status
     3  git status
