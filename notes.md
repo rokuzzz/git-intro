@@ -1,6 +1,7 @@
+    That is Romans version of notes.md
     1  git clone https://github.com/mattpe/git-intro.git
     2  git status
-    3  git status
+    3 git status
     4  git status
     5  git add .
     6  cd git-intro/
@@ -24,7 +25,15 @@
    24  git push -u origin main
    25  history
    
+ HEAD
    SOME CHANGES FOR THE ASSIGNMENT
    Changes 2
 
+
+   Some changes for Exercise 2
+   Uploaded and modified by ZiangZhao
+
+ 4370e7fe35d959f5487049fe3b949a603e79a5dc
+
+After conflict
 
