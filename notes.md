@@ -23,5 +23,8 @@
    23  git commit -m "notes.md created"
    24  git push -u origin main
    25  history
+   
+   SOME CHANGES FOR THE ASSIGNMENT
+   Changes 2
 
 
