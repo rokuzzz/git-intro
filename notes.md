@@ -31,8 +31,8 @@
    Changes 2
 
 
-   Some changes for Exercise 2
-   Uploaded and modified by ZiangZhao
+   Some changes for Exercise 2.
+   Uploaded and modified by ZiangZhao.
 
  4370e7fe35d959f5487049fe3b949a603e79a5dc
 
