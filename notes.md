@@ -1,6 +1,6 @@
     1  git clone https://github.com/mattpe/git-intro.git
     2  git status
-    3  git status
+    3 git status
     4  git status
     5  git add .
     6  cd git-intro/
