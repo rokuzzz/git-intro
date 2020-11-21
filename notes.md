@@ -1,3 +1,4 @@
+    That is Romans version of notes.md
     1  git clone https://github.com/mattpe/git-intro.git
     2  git status
     3 git status
@@ -23,6 +24,7 @@
    23  git commit -m "notes.md created"
    24  git push -u origin main
    25  history
+   
 
    Some changes for Exercise 2
    Uploaded and modified by ZiangZhao
